@@ -40,7 +40,7 @@ npm (v8.x or higher)
 ### link to demo of the app:
 
 ### Setup for front-end
-1. Clone the repository:
+1. Clone the repository:https://github.com/Celestin25/health_chatbot_fn.git
 2. Install dependencies by running :npm install
 3.run  app: npm run dev 
 ### Setup for back-end

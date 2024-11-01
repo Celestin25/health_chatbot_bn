@@ -44,7 +44,7 @@ npm (v8.x or higher)
 2. Install dependencies by running :npm install
 3.run  app: npm run dev 
 ### Setup for back-end
-1.Clone the repository 
+1.Clone the repository :https://github.com/Celestin25/health_chatbot_bn.git
 2.Cd mental_health_project 
 3.Create virtual environment 
 4.run app : python manage.py runserver

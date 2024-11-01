@@ -1,1 +1,50 @@
 # mobile_chatbot_bn
+# Heart Disease Prediction App
+
+## Overview ML
+This app leverages a Machine Learning (ML) models and NLP to be able to questions depending on the input of users . It is built using TensorFlow and scikit-learn, employing a Multi-Layer Perceptron (MLP) neural network which is optimized and evaluated to ensure high accuracy and performance.
+## Overview on website 
+This app is built using React on front-end side,Django for back-end
+
+## Model Development and Evaluation
+
+### Features
+- **Model Creation**: The MLP model includes multiple dense layers and uses regularization to prevent overfitting.
+- **Training**: Optimally trained on a dataset with carefully selected hyperparameters for the best performance.
+- **Evaluation**: Comprehensive evaluation metrics including accuracy, precision, recall, and F1-score are provided along with confusion matrix and classification reports.
+
+## Pipeline Creation
+
+### Functions
+- Python functions encapsulate all steps of the ML pipeline, ensuring code modularity and reusability.
+- **Retraining Mechanism**: A robust and well-documented mechanism for retraining the model with new data is included.
+
+
+
+### GitHub Repository Structure
+1. **README.md**: Provides detailed instructions for setting up and running the project.
+2. **Model Files**: Includes Jupyter notebooks (`heart_disease_prediction.ipynb`) and Python scripts (`models.py`, `predictions.py`), detailing the model's development and deployment.
+3. **Deployment Files**: Contains all necessary configurations for deploying the model on a cloud platform.
+4. **URL**: Link to the deployed app (https://heart-disease-prediction-hbn5aqn8pzylyneftv7uhl.streamlit.app/). but they are another version /
+
+## Deployment
+
+- **Cloud Platform**: The ML pipeline is deployed on a cloud platform, ensuring scalability and easy access. The deployment is consistent with the development in the notebook and pipeline files.
+
+
+### Prerequisites
+Ensure you have Python and the necessary packages (`tensorflow`, `numpy`, `pandas`, `scikit-learn`) installed.
+Ensure you have (Node.js (v18.x or higher)
+npm (v8.x or higher)
+
+### link to demo of the app:
+
+### Setup for front-end
+1. Clone the repository:
+2. Install dependencies by running :npm install
+3.run  app: npm run dev 
+### Setup for back-end
+1.Clone the repository 
+2.Cd mental_health_project 
+3.Create virtual environment 
+4.run app : python manage.py runserver

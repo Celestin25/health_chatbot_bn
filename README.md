@@ -37,7 +37,7 @@ Ensure you have Python and the necessary packages (`tensorflow`, `numpy`, `panda
 Ensure you have (Node.js (v18.x or higher)
 npm (v8.x or higher)
 
-### link to demo of the app:
+### link to demo of the app:https://www.loom.com/share/685367e2bc684660b7f8826e48471e3e
 
 ### Setup for front-end
 1. Clone the repository:https://github.com/Celestin25/health_chatbot_fn.git

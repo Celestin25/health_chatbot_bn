@@ -23,9 +23,9 @@ This app is built using React on front-end side,Django for back-end
 
 ### GitHub Repository Structure
 1. **README.md**: Provides detailed instructions for setting up and running the project.
-2. **Model Files**: Includes Jupyter notebooks (`heart_disease_prediction.ipynb`) and Python scripts (`models.py`, `predictions.py`), detailing the model's development and deployment.
+2. **Model Files**: Includes Jupyter notebooks (`mental_health_chatbot.ipynb`) and Python scripts (`models.py`, `predictions.py`), detailing the model's development and deployment.
 3. **Deployment Files**: Contains all necessary configurations for deploying the model on a cloud platform.
-4. **URL**: Link to the deployed app (https://heart-disease-prediction-hbn5aqn8pzylyneftv7uhl.streamlit.app/). but they are another version /
+4. **URL**: Link to the deployed app (https://heart-disease-prediction-hbn5aqn8pzylyneftv7uhl.streamlit.app/). But they are another version will be deployed on AWS soon the one using React and Django.
 
 ## Deployment
 

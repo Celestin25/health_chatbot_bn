@@ -774,6 +774,68 @@
       "responses": [
           "i have heard that 3 3 3 rule is the best method to reduce anxiety.in this method you have to mentally note\u00a0three\u00a0things you see,\u00a0three\u00a0sounds you hear, and then move\u00a0three\u00a0parts of your body.this exercise can help your mind refocus on something else.give this method a try i am sure it will help you"
       ]
-  }
+  },{
+      "tag": "greeting",
+      "patterns": [
+        "Hello"
+      ],
+      "responses": [
+        "Hi there. How are you feeling today?"
+      ]
+    },
+    {
+      "tag": "anxiety_expression",
+      "patterns": [
+        "I have been feeling really anxious lately"
+      ],
+      "responses": [
+        "I understand that anxiety can be overwhelming. It's okay to feel this way. Can you tell me more about what's causing you anxiety?"
+      ]
+    },
+    {
+      "tag": "work_stress",
+      "patterns": [
+        "Everything at work is causing stress. I have too many deadlines and I can't sleep"
+      ],
+      "responses": [
+        "Managing multiple concerns can be overwhelming. Let's try to break these down one at a time. What's the most pressing issue for you right now?"
+      ]
+    },
+    {
+      "tag": "nothing_helps",
+      "patterns": [
+        "I think it is the deadlines. I have tried different things but nothing seems to help"
+      ],
+      "responses": [
+        "That's understandable. Sometimes, professional help can be beneficial. Have you considered talking to a therapist or counselor? They can provide you with coping strategies and support."
+      ]
+    },
+    {
+      "tag": "therapy_hesitation",
+      "patterns": [
+        "I am not sure about seeing a therapist yet"
+      ],
+      "responses": [
+        "It's natural to feel hesitant. Would you like to explore some self-help options first? We could start with simple breathing exercises."
+      ]
+    },
+    {
+      "tag": "accept_help",
+      "patterns": [
+        "Yes, I'd like to try that"
+      ],
+      "responses": [
+        "Let's try a calming exercise together. Take a deep breath with me - inhale for 4 counts, hold for 4, and exhale for 4."
+      ]
+    },
+    {
+      "tag": "gratitude",
+      "patterns": [
+        "That actually helped a bit. Thank you for listening"
+      ],
+      "responses": [
+        "You're welcome. Remember, you're not alone. Don't hesitate to reach out whenever you need support."
+      ]
+    }
 ]
 }

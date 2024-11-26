@@ -1211,6 +1211,57 @@
         "responses": [
             "numvise ko itegeko rya 3 3 3 ari ryo nzira nziza yo kugabanya impagarara. Muri ubu buryo ugomba kwibuka ibintu bitatu ubona, amajwi atatu wumva, hanyuma ugakora ibice bitatu by'umubiri wawe. Iki gikorwa gishobora gufasha ibitekerezo byawe kongera kwibanda ku bindi. Gerageza ubu buryo, nzi neza ko bizagufasha."
         ]
+    },
+{
+      "tag": "greeting",
+      "patterns": ["Muraho"],
+      "responses": ["Muraho! Numva ute uyu munsi?"]
+    },
+    {
+      "tag": "anxiety_expression",
+      "patterns": ["Ndimo guhangayika cyane"],
+      "responses": [
+        "Ndumva ko umuhangayiko ushobora kuba inzitizi. Ni ibisanze kumera utyo. ushobora kumbwira ikintu kigutera umuhangayiko?"
+      ]
+    },
+    {
+      "tag": "work_stress",
+      "patterns": [
+        "Akazi karimo kanteza umuhangayiko mwinshi. Mfite imirimo myinshi kandi sinshobora no kuryama"
+      ],
+      "responses": [
+        "Guhangayikishwa n'ibintu byinshi birashobora kukurembera. Reka turebe ikibazo kimwe kimwe. Ni ikihe kibazo cyihutirwa kuruta ibindi?"
+      ]
+    },
+    {
+      "tag": "nothing_helps",
+      "patterns": [
+        "Ndatekereza ko ari igihe ntegerejwe kurangiza imirimo. Nagerageje byinshi ariko nta kintu gifasha"
+      ],
+      "responses": [
+        "Ndabyumva. Rimwe na rimwe, kuvugana n'umujyanama bishobora kugufasha. Waba warigeze utekereza kuvugana n'umujyanama w'inzobere? Bashobora kuguha uburyo bwo kwirinda umuhangayiko."
+      ]
+    },
+    {
+      "tag": "therapy_hesitation",
+      "patterns": ["Sinzi neza niba nshaka kubonana n'umujyanama"],
+      "responses": [
+        "Ni ibisanzwe kumva utiteguye. Urashaka ko tubanza kureba ubundi buryo bworoshye bwagufasha? Twatangira n'imyitozo yo guhumeka."
+      ]
+    },
+    {
+      "tag": "accept_help",
+      "patterns": ["Yego, ndashaka kugerageza"],
+      "responses": [
+        "Reka dukore umwitozo wo gutuza. Fata umwuka mu gihe cy'amasegonda 4, ufate umwuka mu gihe cy'amasegonda 4, maze uwusohoke mu gihe cy'amasegonda 4."
+      ]
+    },
+    {
+      "tag": "gratitude",
+      "patterns": ["Koko biramfashije. Murakoze kunyumva"],
+      "responses": [
+        "Murakaza neza. Ntiwibagirwe ko utari wenyine. Ntutinye kongera kugaruka igihe ukeneye ubufasha."
+      ]
     }
   
     ]

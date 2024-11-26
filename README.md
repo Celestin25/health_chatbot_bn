@@ -37,7 +37,15 @@ Ensure you have Python and the necessary packages (`tensorflow`, `numpy`, `panda
 Ensure you have (Node.js (v18.x or higher)
 npm (v8.x or higher)
 
-### link to demo of the app:https://www.loom.com/share/685367e2bc684660b7f8826e48471e3e
+### link to demo of the app:https://drive.google.com/file/d/1mvGw7HpfLOWOX929-gwv4KCZliLO8X5o/view?usp=drive_link
+
+## Screenshot for english version
+
+![image](https://github.com/user-attachments/assets/35d7c0da-6af0-4bd0-b0d5-dc7e6fb5b0f2)
+
+## screenshot for kinyarwanda version
+
+![image](https://github.com/user-attachments/assets/243f6403-21f0-424f-9dba-ea67c6f0a56f)
 
 ### Setup for front-end
 1. Clone the repository:https://github.com/Celestin25/e-health-fn.git
